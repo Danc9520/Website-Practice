@@ -6,6 +6,11 @@ div{
     font-family: Baskerville, "Hoefler Text", Garamond, "Times New Roman", serif; 
 }
 
+p{
+  color: Purple;
+  margin-left: 20px;
+}
+
 section{
     height: 50%;
 }
