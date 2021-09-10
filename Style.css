@@ -3,12 +3,12 @@ body {
 }
 
 div{
-    font-family: Baskerville, "Hoefler Text", Garamond, "Times New Roman", serif; 
-}
+    font-family: verdana;
 
 p{
   color: purple;
   margin-left: 20px;
+    font-size:20px
 }
 
 section{
