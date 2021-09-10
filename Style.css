@@ -1,9 +1,21 @@
-body {
-    background: lightgrey;
-}
-
 div{
     font-family: verdana;
+body { background-color: lightgrey; 
+text-align: center;
+font-size: 40px;}
+Section{text-align: left;
+    font-size: 20px}
+
+Title {font-family: "Times New Roman";
+    font-size: 20px
+}
+h2 {font-family: cursive;
+font-size: 15px
+}
+
+div{ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
 
 p{
   color: purple;
